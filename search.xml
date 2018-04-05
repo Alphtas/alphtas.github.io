@@ -526,6 +526,124 @@
 <p>&emsp;&emsp;&emsp;借：管理费用（当期服务成本）  890<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;贷：应付职工薪酬  890<br>&emsp;&emsp;&emsp;同理，2x15年末，企业对该管理人员的会计处理如下：<br>&emsp;&emsp;&emsp;借：管理费用（当期服务成本）  980<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;贷：应付职工薪酬  980<br>&emsp;&emsp;&emsp;借：财务费用  89<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;贷：应付职工薪酬  89</p>
 <p>&emsp;&emsp;&emsp;以后各年，以此类推。</p>
 <hr>
+<h3 id="现金结算的股份支付"><a href="#现金结算的股份支付" class="headerlink" title="现金结算的股份支付"></a>现金结算的股份支付</h3><p><strong>例题1</strong>：20x5年年初，公司为其200名中层以上职员每人授予100分现金股票增值权，这些职员从20x5年1月1日起在该公司连续服务3年，即可按照当时骨架的增长幅度获得现金，该增值权应在2009年12月31日之前行使。A公司估计，该增值权在负债结算之前的每一资产负债表日以及结算日的公允价值和可行权后的每分增值权现金支出额如下所示。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">年份</th>
+<th style="text-align:center">公允价值</th>
+<th style="text-align:center">支付现金</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">20x5</td>
+<td style="text-align:center">14</td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center">20x6</td>
+<td style="text-align:center">15</td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center">20x7</td>
+<td style="text-align:center">18</td>
+<td style="text-align:center">16</td>
+</tr>
+<tr>
+<td style="text-align:center">20x8</td>
+<td style="text-align:center">21</td>
+<td style="text-align:center">20</td>
+</tr>
+<tr>
+<td style="text-align:center">20x9</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">25</td>
+</tr>
+</tbody>
+</table>
+<p>&emsp;&emsp;&emsp;第一年有20名职员离开A公司，A公司估计三年中还将有15名职员离开；第二年又有10名职员离开公司，公司估计还将有10名职员离开；第三年又有15名职员离开。第三年年末，有70人行使股份增值权取得了现金。第四年年末，有50人行使了股份增值权。第五年年末，剩余35人也行使了股份增值权。<br>1.费用和资本公司计算过程如下：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><font size="2">年份</font></th>
+<th style="text-align:center"><font size="2">负债计算（1）</font></th>
+<th style="text-align:center"><font size="2">支付现金计算（2）</font></th>
+<th style="text-align:center"><font size="2">负债（3）</font></th>
+<th style="text-align:center"><font size="2">支付现金（4）</font></th>
+<th style="text-align:center"><font size="2">当期费用（5）</font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><font size="2">20x5年</font></td>
+<td style="text-align:center"><font size="2">(200-35) $\times$100$\times$14$\times$ $\frac13$</font></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"><font size="2">77000</font></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"><font size="2">77000</font></td>
+</tr>
+<tr>
+<td style="text-align:center"><font size="2">20x6年</font></td>
+<td style="text-align:center"><font size="2">(200-40) $\times$100$\times$15$\times$ $\frac23$</font></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"><font size="2">160000</font></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"><font size="2">83000</font></td>
+</tr>
+<tr>
+<td style="text-align:center"><font size="2">20x7年</font></td>
+<td style="text-align:center"><font size="2">(200-45-70) $\times$100$\times$18</font></td>
+<td style="text-align:center"><font size="2">70$\times$100$\times$16</font></td>
+<td style="text-align:center"><font size="2">153000</font></td>
+<td style="text-align:center"><font size="2">112000</font></td>
+<td style="text-align:center"><font size="2">105000</font></td>
+</tr>
+<tr>
+<td style="text-align:center"><font size="2">20x8年</font></td>
+<td style="text-align:center"><font size="2">(200-45-70-50) $\times$100$\times$18</font></td>
+<td style="text-align:center"><font size="2">50$\times$100$\times$20</font></td>
+<td style="text-align:center"><font size="2">73500</font></td>
+<td style="text-align:center"><font size="2">100000</font></td>
+<td style="text-align:center"><font size="2">20500</font></td>
+</tr>
+<tr>
+<td style="text-align:center"><font size="2">20x9年</font></td>
+<td style="text-align:center"><font size="2">0</font></td>
+<td style="text-align:center"><font size="2">35$\times$100$\times$25</font></td>
+<td style="text-align:center"><font size="2">0</font></td>
+<td style="text-align:center"><font size="2">87500</font></td>
+<td style="text-align:center"><font size="2">14000</font></td>
+</tr>
+<tr>
+<td style="text-align:center"><font size="2">总额</font></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"><font size="2">299500</font></td>
+<td style="text-align:center"><font size="2">299500</font></td>
+</tr>
+</tbody>
+</table>
+<center><font size="1">其中：（1）计算得（3）；（2）计算得（4）；当期（3）-前一期（3）+当期（4）=当期（5）</font></center>
+
+<p>2.账务处理如下：<br>（1）20x5年12月31日：<br>借：管理费用  77000<br>&emsp;&emsp;&emsp;贷：应付职工薪酬——股份支付  77000</p>
+<p>（2）20x6年12月31日：<br>借：管理费用  83000<br>&emsp;&emsp;&emsp;贷：应付职工薪酬——股份支付  83000</p>
+<p>（3）20x7年12月31日：<br>借：管理费用  105000<br>&emsp;&emsp;&emsp;贷：应付职工薪酬——股份支付  105000<br>借：应付职工薪酬——股份支付  112000<br>&emsp;&emsp;&emsp;贷：银行存款  112000</p>
+<p>（4）20x8年12月31日：<br>借：公允价值变动损益  20500<br>&emsp;&emsp;&emsp;贷：应付职工薪酬——股份支付  20500<br>借：应付职工薪酬——股份支付  100000<br>&emsp;&emsp;&emsp;贷：银行存款100000</p>
+<p>（5）20x9年12月31日：<br>借：公允价值变动损益  14000<br>&emsp;&emsp;&emsp;贷：应付职工薪酬——股份支付  14000<br>借：应付职工薪酬——股份支付  87500<br>&emsp;&emsp;&emsp;贷：银行存款  87500</p>
+<hr>
+<h3 id="差额征税"><a href="#差额征税" class="headerlink" title="差额征税"></a>差额征税</h3><p><strong>例题1</strong>：某旅游企业为增值税一般纳税人，选择差额征税的方式。该企业本期向旅游服务购买方收取的含税价款为530000元（含增值税30000元），应支付给其他截团旅游企业的旅游费用和其他单位的相关费用为424000元，其中因允许扣减销售额而减少的销项税额24000元。<br>假设该旅游企业采用总额法确认收入，根据该项经济业务，企业可作如下账务处理：<br>借：银行存款  530000<br>&emsp;&emsp;&emsp;贷：主营业务收入  500000<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;应交税费——应交增值税（销项税额）  30000<br>借：主营业务成本  400000<br>&emsp;&emsp;&emsp;应交税费——应交增值税（销项税额抵减）  24000<br>&emsp;&emsp;&emsp;贷：应付账款  424000</p>
+<blockquote>
+<p>&emsp;&emsp;&emsp;一般纳税企业提供应税服务，按照营业税改征增值税有关规定允许从销售额中扣除起支付给其他单位或个人价款的，在收入采用总额法确认的情况下，减少的销项税额应借记“应交税费——应交增值税（销项税额抵减）”科目，同理，小规模纳税企业应借记“应交税费——应交增值税”科目；在收入采用净额法确认的情况下，按照增值税有关规定确定的销售额计算增值税销项税额并计入“应交税费——应交增值税（销项税额）”。</p>
+</blockquote>
+<hr>
+<h3 id="预计负债"><a href="#预计负债" class="headerlink" title="预计负债"></a>预计负债</h3><p><strong>例题1</strong>：甲公司有限公司是生产并销售A产品企业，20x8年第一季度，共销售A产品60000件，销售收入为36000万元。根据公司的产品质量保证条款，该产品售出后一年内，如发生正常质量问题，公司将负责免费维修。根据以前年度的维修记录，如果发生较小的质量问题，发生的维修费用为销售收入的1%；如果发生较大的质量问题，发生的维修费用为销售收入的2%。根据公司技术部门的预测，本季度销售的产品中，80%不会发生质量问题；15%可能发生较小质量问题；5%可能发生较大质量问题。据此，20x8年第一季度末，甲股份有限公司应在资产负债表中确认的负债金额为：</p>
+<p><center>36000$\times$(0$\times$80%+1%$\times$15%+2%$\times$5%)=90（万元）</center><br>&emsp;&emsp;&emsp;甲公司20x8年度第一季度实际发生的维修费为85万元，“预计负债——产品质量保证”科目20x7年年末月为3万元。</p>
+<p>1.确认与产品质量保证有关的预计负债：<br>借：销售费用——产品质量保证  90<br>&emsp;&emsp;&emsp;贷：预计负债——产品质量保证  90</p>
+<p>2.发生产品质量保证费用（维修费）：<br>借：预计负债——产品质量保证  85<br>&emsp;&emsp;&emsp;贷：银行存款  85</p>
+<p>“预计负债——产品质量保证”科目20x8年第一季度末的余额为：90-85+3=8（万元）</p>
 ]]></content>
       
         <categories>
